@@ -49,7 +49,8 @@
     {
       "key": "tv_live",
       "name": "全国卫视直播",
-      "url": "https://cdn.json.tvbox.app/tv.txt"
+      "url": "https://raw.githubusercontent.com/3377/IPTV/refs/heads/master/version.json"
     }
   ]
 }
+
