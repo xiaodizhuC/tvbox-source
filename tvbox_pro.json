@@ -1,37 +1,37 @@
 {
   "name": "稳定4K影视源【永久版】",
   "author": "小地主",
-  "description": "无广告、4K超清、全平台通用，含电影/电视剧/综艺/动漫/纪录片",“描述”: 无广告、4K超清、全平台通用，含电影/电视剧/综艺/动漫/纪录片,
-  "updateTime": "2026-03-05",“updateTime”: "2026-03-05",,“更新时间”："2026-03-05",
+  "description": "无广告、4K超清、全平台通用，含电影/电视剧/综艺/动漫/纪录片",
+  "updateTime": "2026-03-05",
   "sites": [
     {
       "key": "main_source_1",
       "name": "主线路-4K超清",
-      "type": 0,“类型”: 0,
+      "type": 0,
       "api": "https://tv.youdu.fan:666/毒盒影视/",
-      "searchable": 1,“可搜索”: 1,
-      "quickSearch"“快速搜索”: 1,“快速搜索”: 1,
-      "filterable"可筛选: 1“可筛选”可筛选:1“可筛选”可筛选:1“可筛选”可筛选:1,“可筛选”: 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": ""
     },
     {
       "key": "backup_source_1",
-      "name": "备用线路1-稳定版",“name”: “备用线路1-稳定版”,
-      "type": 0,“类型”: 0,“type”: 0,“类型”:0,
+      "name": "备用线路1-稳定版",
+      "type": 0,
       "api": "https://cdn.json.tvbox.app/ys1.json",
-      "searchable": 1,“可搜索”: 1,
-      "quickSearch"“快速搜索”: 1,“快速搜索”: 1,
-      "filterable": 1,“可筛选”: 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": ""
     },
     {
       "key": "backup_source_2",
-      "name": "备用线路2-极速版",“name”: 备用线路2-极速版,
-      "type": 0,“类型”: 0,“type”: 0,“类型”:0,“类型”: 0,“类型”:0,“type”:0,“类型”:0,
+      "name": "备用线路2-极速版",
+      "type": 0,
       "api": "https://cdn.json.tvbox.app/ys2.json",
-      "searchable": 1,“可搜索”: 1,
-      "quickSearch": 1,“快速搜索”: 1,
-      "filterable": 1,“可筛选”: 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": ""
     }
   ],
@@ -48,8 +48,8 @@
   "live": [
     {
       "key": "tv_live",
-      "name": "全国卫视直播",“name”: 全国卫视直播,“name”: 全国卫视直播,“name”: 全国卫视直播,
-      "url": "https://cdn.json.tvbox.app/tv.txt"“url”: “https://cdn.json.tvbox.app/tv.txt”
+      "name": "全国卫视直播",
+      "url": "https://cdn.json.tvbox.app/tv.txt"
     }
   ]
 }
