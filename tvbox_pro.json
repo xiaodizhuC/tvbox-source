@@ -3,28 +3,27 @@
   "author": "小地主",
   "description": "无广告、4K超清、全平台通用，含电影/电视剧/综艺/动漫/纪录片",
   "updateTime": "2026-03-05",
-"sites": [
-  {
-    "key": "stable_source_1",
-    "name": "稳定线路-推荐",
-    "type": 0,
-    "api": "https://cdn.jsdelivr.net/gh/gaotianli/TVBox@main/ys1.json",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": ""
-  },
-  {
-    "key": "stable_source_2",
-    "name": "备用线路-高清",
-    "type": 0,
-    "api": "https://cdn.jsdelivr.net/gh/gaotianli/TVBox@main/ys2.json",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": ""
-  }
-],
+  "sites": [
+    {
+      "key": "main_source_1",
+      "name": "主线路-4K超清",
+      "type": 0,
+      "api": "https://tv.youdu.fan:666/毒盒影视/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "backup_source_1",
+      "name": "备用线路1-稳定版",
+      "type": 0,
+      "api": "https://cdn.json.tvbox.app/ys1.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
     {
       "key": "backup_source_2",
       "name": "备用线路2-极速版",
